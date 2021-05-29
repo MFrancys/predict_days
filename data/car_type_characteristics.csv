@@ -1,0 +1,701 @@
+car_type,average_price,transmission,body_type
+GMC_Sierra_2009,706981,Automatic,Sedan
+Ford_Edge_2014,868193,Automatic,Sedan
+Honda_City_2018,671272,Manual,SUV
+Renault_Twizy_2019,204486,Automatic,Sedan
+Giant_Giant GF-8_2008,701787,Manual,Sedan
+Nissan_Tsuru_2009,505127,Automatic,SUV
+Ford_Focus_2018,680265,Automatic,SUV
+Audi_A3 Sportback_2010,618739,Manual,Coupe
+Volkswagen_Gol_2011,912348,Automatic,SUV
+Mitsubishi_Outlander_2016,195169,Manual,Coupe
+Chevrolet_Tahoe_2013,398240,Automatic,SUV
+Chrysler_Pacifica_2008,983746,Manual,SUV
+Seat_Freetrack_2011,747710,Automatic,Sedan
+Dodge_Charger_2016,737341,Automatic,Coupe
+Seat_Ateca_2020,751235,Automatic,SUV
+Toyota_RAV4_2012,671434,Automatic,SUV
+Mercedes Benz_Clase GLC_2016,425829,Manual,SUV
+Volkswagen_Tiguan_2011,264939,Manual,Sedan
+Cadillac_STS_2008,984904,Automatic,Sedan
+Giant_GF_2018,131531,Automatic,SUV
+Ford_Transit Van_2012,862593,Automatic,Sedan
+Fiat_500_2009,732860,Automatic,Coupe
+Honda_Ridgeline_2010,270346,Automatic,Coupe
+BMW_Serie 3_2011,787848,Manual,Sedan
+Seat_Ibiza_2014,207391,Manual,Sedan
+Mercedes Benz_Sprinter Wagon L4_2010,731699,Automatic,SUV
+Chevrolet_Cheyenne_2010,519360,Manual,Sedan
+Mercedes Benz_Clase C_2009,639586,Automatic,Sedan
+Mercedes Benz_Clase CLA Coupe_2018,966024,Automatic,SUV
+Volvo_C30_2011,531191,Automatic,Sedan
+Jaguar_XF_2012,806605,Automatic,Sedan
+Chevrolet_Tahoe_2017,461038,Manual,Sedan
+BMW_Serie Z_2008,283045,Automatic,Coupe
+Seat_Ibiza _2020,753974,Automatic,Sedan
+Ford_Eco Sport_2009,786659,Automatic,SUV
+Volkswagen_T-cross_2020,889635,Automatic,Sedan
+Mazda_CX-9_2012,344893,Automatic,SUV
+Mercedes Benz_Clase SLS_2014,394463,Automatic,Sedan
+Dodge_Challenger_2009,164410,Automatic,Coupe
+BMW_Serie 3_2019,280435,Manual,Sedan
+Chevrolet_Express Cargo Van_2014,615158,Automatic,Sedan
+Buick_Enclave_2013,969088,Manual,Sedan
+Land Rover_Range Rover_2013,705484,Automatic,Coupe
+Ford_Escape_2008,963371,Automatic,Sedan
+Toyota_Land Cruiser_2016,605437,Manual,Sedan
+Renault_Koleos_2016,971308,Manual,Sedan
+Audi_RS5_2018,799830,Automatic,Sedan
+Cadillac_Escalade_2017,616262,Automatic,Sedan
+BMW_Serie 3_2008,946336,Automatic,Sedan
+Chevrolet_Bolt_2018,258169,Automatic,Sedan
+Audi_A4_2018,476254,Automatic,SUV
+Volvo_S80_2013,862737,Automatic,Sedan
+Dodge_Grand Caravan_2020,591481,Automatic,Sedan
+Honda_BR-V_2019,977088,Automatic,Sedan
+Jac_SEI2_2018,755496,Automatic,Sedan
+Jaguar_XJ_2008,654551,Manual,SUV
+Mercedes Benz_Sprinter Chasis Cabina L4_2011,938391,Manual,Sedan
+Dodge_Avenger_2014,597541,Automatic,Sedan
+Ford_Explorer_2017,707791,Automatic,Sedan
+Peugeot_508_2012,185043,Manual,Coupe
+Ford_F450 Super Duty_2017,106132,Manual,Sedan
+Jeep_Gladiator_2020,177472,Automatic,Sedan
+Peugeot_208_2015,776748,Automatic,SUV
+Nissan_Urvan NV350 Panel_2015,120985,Manual,Sedan
+Toyota_Matrix_2010,536553,Automatic,Sedan
+Toyota_Hiace_2020,420723,Manual,Sedan
+Dodge_Vision_2016,571584,Manual,Coupe
+Jaguar_XK_2011,190099,Automatic,Coupe
+Volvo_XC90_2013,907593,Automatic,Sedan
+Renault_Kangoo_2011,235598,Automatic,Sedan
+Mitsubishi_Mirage_2015,875443,Manual,SUV
+GMC_Terrain_2013,263451,Manual,Sedan
+Toyota_FJ Cruiser_2011,421551,Automatic,Sedan
+Honda_HR-V_2020,674240,Manual,Sedan
+Hummer_Hummer_2010,927558,Automatic,Sedan
+Acura_TL_2013,695971,Automatic,SUV
+Volvo_S40_2009,196058,Automatic,Truck
+Nissan_X Trail_2020,939700,Automatic,Sedan
+Ford_F550 Super Duty_2019,209603,Manual,Sedan
+Volkswagen_Golf SportWagen_2010,598927,Automatic,Sedan
+GMC_Yukon_2015,150432,Automatic,Sedan
+Mercedes Benz_Clase GLA_2018,469427,Automatic,Sedan
+Mitsubishi_Outlander_2012,965988,Automatic,Sedan
+Mazda_Mazda 3_2021,474389,Automatic,Sedan
+FAW_FAW_2009,656011,Automatic,Truck
+Volkswagen_Transporter_2017,146237,Automatic,Sedan
+Nissan_March_2019,699738,Automatic,SUV
+GMC_Sierra_2013,592020,Automatic,Sedan
+Ford_Expedition_2019,587731,Automatic,Sedan
+Porsche_Boxster_2013,580221,Automatic,Sedan
+Mercedes Benz_Clase GLA_2014,274076,Manual,SUV
+Nissan_Maxima_2019,336994,Automatic,SUV
+Chevrolet_Tahoe_2015,886851,Automatic,Sedan
+Ford_Edge_2011,235171,Automatic,SUV
+Chrysler_200_2014,576162,Automatic,Sedan
+Nissan_Frontier_2018,652988,Automatic,Sedan
+BMW_Serie 5_2020,824097,Automatic,Coupe
+Chevrolet_Traverse_2009,276753,Automatic,Sedan
+Chevrolet_Cheyenne_2020,337204,Automatic,SUV
+Renault_Trafic_2012,594047,Automatic,Sedan
+Peugeot_301_2020,311752,Automatic,Sedan
+Land Rover_Defender_2015,838507,Automatic,Sedan
+Nissan_Sentra_2012,620609,Manual,Sedan
+Dodge_Attitude_2009,786761,Automatic,SUV
+Renault_Duster_2015,849034,Automatic,Sedan
+Ford_Transit_2010,964109,Automatic,Sedan
+Nissan_March Cargo_2018,750353,Manual,Sedan
+Jaguar_XJ_2012,755237,Manual,SUV
+BMW_Serie 7_2012,646431,Automatic,Sedan
+Chrysler_300 C_2008,371725,Automatic,SUV
+Lincoln_Continental_2018,677690,Automatic,Truck
+Jaguar_I-PACE_2019,659488,Automatic,Sedan
+Nissan_Quest _2008,770562,Automatic,Sedan
+Nissan_Sentra_2008,969837,Automatic,Sedan
+Honda_Accord_2013,532530,Automatic,SUV
+Honda_CR-V_2018,779453,Automatic,Sedan
+GMC_Terrain_2015,281396,Automatic,Sedan
+Honda_Pilot_2009,777124,Automatic,Sedan
+Buick_Enclave_2014,855086,Automatic,Sedan
+Subaru_Impreza_2013,216462,Automatic,Coupe
+Jeep_Cherokee_2019,882366,Manual,Sedan
+BMW_Serie 1_2012,546108,Manual,Truck
+Subaru_Legacy_2010,847519,Automatic,SUV
+Nissan_NP 300_2016,534004,Automatic,SUV
+Chevrolet_Chevy_2011,548170,Automatic,SUV
+Mercedes Benz_Clase C_2019,112643,Automatic,SUV
+Jeep_Commander_2010,399879,Automatic,Sedan
+Audi_A7_2016,583197,Automatic,Sedan
+BMW_X5_2019,850541,Automatic,Coupe
+Mercedes Benz_Clase SL_2010,338808,Manual,Coupe
+Ford_Edge_2013,946853,Manual,SUV
+GMC_Terrain_2016,555968,Automatic,Sedan
+Chevrolet_Matiz_2009,442804,Automatic,Sedan
+Ford_F450 Super Duty_2009,431023,Automatic,SUV
+Dodge_H 100_2013,331530,Automatic,Sedan
+Dodge_Avenger_2009,735478,Automatic,Sedan
+Nissan_Maxima_2012,177435,Automatic,Coupe
+Mitsubishi_L200_2020,402410,Automatic,Sedan
+Peugeot_RCZ_2013,213415,Automatic,Sedan
+Ford_Transit Van_2010,494179,Automatic,SUV
+Mitsubishi_L200_2014,321709,Manual,Sedan
+Chevrolet_Colorado_2010,425689,Automatic,Sedan
+BMW_X6_2020,521312,Automatic,Sedan
+Toyota_Tundra_2009,898871,Automatic,Sedan
+Volkswagen_Passat_2008,230948,Automatic,SUV
+Honda_Accord_2016,401281,Automatic,SUV
+Mercedes Benz_Clase GLS_2017,967274,Automatic,Sedan
+Dodge_Challenger_2016,681694,Automatic,Coupe
+Mini_Mini Cooper_2010,988968,Automatic,Sedan
+Mercedes Benz_Clase CLS_2015,329211,Automatic,Sedan
+Acura_MDX_2017,802711,Automatic,Sedan
+Jeep_Compass_2017,392873,Automatic,Sedan
+Chevrolet_Captiva Sport_2014,623998,Automatic,Sedan
+Mercedes Benz_Clase GLA_2015,174222,Manual,Truck
+Nissan_March_2018,354240,Automatic,Sedan
+Ford_Transit Van_2013,302461,Automatic,Sedan
+BMW_Serie 1_2021,588190,Automatic,Sedan
+Peugeot_Partner_2009,387539,Automatic,Coupe
+Buick_Envision_2017,279672,Automatic,Sedan
+Audi_S3_2018,807316,Manual,Sedan
+Fiat_Palio_2009,904720,Manual,SUV
+GMC_Yukon_2014,159603,Automatic,Sedan
+Mercedes Benz_Clase SL_2019,638668,Automatic,Sedan
+Mercedes Benz_Clase CLS_2008,971993,Automatic,Coupe
+Peugeot_3008_2016,426235,Automatic,SUV
+Seat_Altea XL_2014,289461,Automatic,Sedan
+Peugeot_208_2021,835719,Automatic,Coupe
+Porsche_Cayenne_2020,531794,Automatic,Sedan
+Mercedes Benz_Clase R_2011,364556,Automatic,Coupe
+Chevrolet_Express Cargo Van_2018,832675,Automatic,SUV
+Porsche_Boxster_2018,651322,Automatic,Sedan
+Renault_Duster_2017,572061,Manual,Sedan
+Lincoln_MKX_2010,722375,Automatic,Sedan
+Mercedes Benz_Clase GL_2014,294328,Automatic,SUV
+Ford_Mustang_2019,182102,Manual,Sedan
+Audi_A6_2008,461834,Automatic,Sedan
+Fiat_Ducato_2013,827946,Automatic,SUV
+JAC_Gladiator_2020,860561,Automatic,Sedan
+Chevrolet_Tahoe_2009,405787,Manual,Sedan
+Dodge_Ram 2500 V8_2012,825641,Automatic,SUV
+Chevrolet_Cavalier_2018,913880,Manual,Sedan
+Chrysler_Cirrus_2009,287875,Automatic,Sedan
+Chevrolet_Silverado 1500 V6_2013,695461,Automatic,Sedan
+BMW_Serie 3_2012,754929,Automatic,Sedan
+Volkswagen_Caddy Maxi_2017,970459,Automatic,Truck
+Peugeot_Manager_2016,123059,Automatic,Sedan
+Chevrolet_Silverado 1500 V6_2012,970350,Automatic,Sedan
+Land Rover_LR2_2009,132909,Automatic,Sedan
+Volkswagen_Caddy Maxi_2020,391052,Automatic,SUV
+Lincoln_MKX_2009,144560,Automatic,Sedan
+Toyota_Prius_2011,257152,Automatic,Sedan
+Fiat_500_2019,816050,Automatic,Sedan
+Audi_R8 Quattro_2008,871465,Manual,Sedan
+Acura_RDX_2018,383614,Automatic,Sedan
+Toyota_Prius_2016,169548,Automatic,Truck
+Land Rover_Defender_2020,831615,Manual,Sedan
+Toyota_Tundra_2020,894376,Manual,Sedan
+Honda_CR-V_2011,167631,Automatic,Sedan
+Peugeot_301_2019,344096,Automatic,Truck
+BMW_Serie 7_2018,668009,Automatic,Sedan
+Land Rover_Range Rover Evoque_2019,499042,Automatic,SUV
+Audi_A6_2018,614228,Automatic,Sedan
+Ford_Explorer_2019,968718,Automatic,SUV
+Dodge_H 100_2010,601131,Automatic,Sedan
+Subaru_Impreza_2008,877111,Automatic,Sedan
+Hyundai_Creta_2019,625782,Automatic,Sedan
+Ford_Lobo_2017,225766,Automatic,SUV
+Mitsubishi_Endeavor_2011,569973,Automatic,Sedan
+Ford_F450 Super Duty_2010,940346,Automatic,Sedan
+Nissan_Rogue_2012,598464,Manual,Sedan
+Toyota_Sienna_2017,820228,Manual,Sedan
+Ford_F450 Super Duty_2011,142559,Manual,SUV
+Audi_A8 Quattro_2018,640330,Automatic,Sedan
+Nissan_Armada_2018,553586,Automatic,Sedan
+Dodge_Ram 1500 V6_2015,586248,Automatic,SUV
+Dodge_Ram 2500 L6 TD_2012,820251,Automatic,SUV
+Volkswagen_Saveiro_2015,239404,Automatic,Sedan
+Nissan_Tiida_2015,689138,Automatic,Sedan
+Mercedes Benz_Viano Pasajeros_2013,259475,Automatic,Sedan
+Volkswagen_Gol_2009,568601,Automatic,SUV
+Audi_Q7 Quattro_2019,121909,Automatic,Sedan
+Acura_MDX_2019,311008,Automatic,Sedan
+Acura_TLX_2020,182375,Automatic,Truck
+Honda_Fit_2016,429513,Manual,SUV
+Mercedes Benz_Clase G_2013,299726,Manual,Sedan
+Chevrolet_Avalanche_2012,653324,Manual,SUV
+Honda_Odyssey_2011,405168,Automatic,Sedan
+JAC_X200_2020,576766,Automatic,SUV
+Mini_Mini Cooper_2016,479409,Automatic,Sedan
+Toyota_Tacoma_2012,523128,Automatic,Coupe
+BMW_X5_2011,970490,Manual,Sedan
+Nissan_March_2013,238184,Automatic,SUV
+GMC_Sierra_2010,714873,Automatic,Coupe
+BMW_Serie 6_2009,773609,Manual,SUV
+Baic_X25_2018,993481,Automatic,Sedan
+Ford_Expedition_2012,398039,Automatic,Sedan
+Nissan_Urvan NV350 Panel_2016,434734,Automatic,Coupe
+Renault_Koleos_2019,422894,Automatic,Sedan
+Spartak_Minivan Cargo_2011,958522,Automatic,Sedan
+BMW_X7_2020,237329,Automatic,Sedan
+Chevrolet_Colorado_2012,828143,Manual,Sedan
+BMW_Serie 5_2009,364525,Manual,Sedan
+Renault_Scala_2013,148368,Manual,Sedan
+Dodge_Caliber_2010,522541,Automatic,Coupe
+Honda_Odyssey_2014,325355,Automatic,Sedan
+GMC_Acadia_2018,732647,Automatic,Sedan
+Hino_Serie 300 414_2011,473991,Manual,Sedan
+Mercedes Benz_Clase G_2019,997705,Automatic,Sedan
+Mercedes Benz_Clase C_2012,339433,Automatic,SUV
+Volkswagen_Crafter_2014,962739,Automatic,Sedan
+Toyota_Camry_2019,191715,Manual,SUV
+Mercedes Benz_Sprinter Crew Cab L4_2020,765157,Automatic,Sedan
+BMW_i8_2020,926721,Automatic,SUV
+Hyundai_Grand i10_2019,808173,Automatic,SUV
+BMW_Serie 5_2014,638187,Automatic,Sedan
+Peugeot_3008_2020,579380,Automatic,SUV
+Dodge_Ram 1500 V6_2011,671026,Automatic,Sedan
+Honda_Fit_2008,540430,Automatic,Sedan
+Mercedes Benz_Clase S_2008,573012,Automatic,Coupe
+Porsche_Panamera_2015,127299,Manual,Sedan
+Mercedes Benz_Clase B_2014,590374,Automatic,SUV
+Infiniti_Q60_2016,651473,Automatic,SUV
+Mitsubishi_L200_2008,101729,Automatic,SUV
+Nissan_Pathfinder_2020,753207,Automatic,Sedan
+Mercedes Benz_Clase CLS_2017,781472,Automatic,Sedan
+BMW_X6_2018,279085,Automatic,Sedan
+Chevrolet_Spark Cargo_2015,106227,Manual,Sedan
+Ford_F150 V6_2008,670435,Automatic,Sedan
+Chevrolet_Malibu_2016,250379,Automatic,Sedan
+Chevrolet_Cheyenne_2008,340411,Automatic,Sedan
+Honda_Civic_2016,206412,Automatic,Truck
+Audi_RS5_2016,284226,Automatic,SUV
+Dodge_Nitro_2012,291085,Manual,Sedan
+Dodge_Ram 700_2016,849891,Manual,SUV
+KIA_Optima_2018,933661,Automatic,Sedan
+Ford_F150_2018,790271,Automatic,Coupe
+Jeep_Wrangler_2010,447260,Automatic,SUV
+Mitsubishi_Outlander_2014,843404,Automatic,Sedan
+Buick_Lacrosse_2013,763973,Manual,SUV
+Peugeot_Manager_2009,524123,Automatic,SUV
+Mitsubishi_Montero_2016,490837,Automatic,Sedan
+Infiniti_QX70_2018,663368,Automatic,SUV
+Volkswagen_Crossfox_2012,168532,Automatic,Sedan
+Porsche_Boxster_2017,774969,Automatic,SUV
+Giant_Giant GF-70_2015,250469,Automatic,SUV
+Ford_Eco Sport_2015,313648,Automatic,Sedan
+Mitsubishi_Galant_2008,510123,Automatic,SUV
+Nissan_Kicks_2018,892710,Manual,SUV
+Mazda_Mazda 3_2014,166050,Automatic,Coupe
+Chrysler_300 C_2016,267165,Manual,Sedan
+Renault_Stepway_2021,530528,Automatic,Sedan
+Nissan_NP 300_2012,188979,Automatic,Coupe
+Nissan_Urvan NV350 Panel_2018,962491,Automatic,SUV
+Nissan_Maxima_2017,917658,Automatic,Coupe
+Honda_Odyssey_2012,569202,Automatic,Sedan
+Buick_Enclave_2015,794444,Automatic,Sedan
+Chevrolet_Tornado_2013,873975,Automatic,SUV
+Audi_S5_2013,126745,Automatic,Sedan
+Dodge_Ram 1500 V6_2012,751001,Automatic,Sedan
+Subaru_Outback_2011,498939,Automatic,Sedan
+Land Rover_Range Rover_2019,300278,Automatic,Sedan
+Mazda_CX-9_2013,823201,Automatic,Sedan
+Seat_Exeo_2011,568375,Automatic,Sedan
+Audi_A1 Sportback_2014,277687,Automatic,Sedan
+Mitsubishi_L200_2012,484741,Manual,Sedan
+Ford_Focus_2011,418871,Automatic,Sedan
+Jaguar_XE_2020,847802,Manual,Sedan
+Mercedes Benz_Clase M_2010,532147,Automatic,Sedan
+Toyota_Yaris_2017,368008,Manual,SUV
+Ford_Transit_2017,181705,Automatic,Sedan
+Ford_Eco Sport_2020,395161,Manual,Coupe
+Porsche_Boxster_2020,240374,Automatic,Coupe
+Hyundai_Creta_2018,364085,Automatic,SUV
+BMW_Serie 7_2016,458798,Automatic,Sedan
+Volvo_V40_2014,723098,Automatic,SUV
+Subaru_XV_2018,724321,Automatic,Sedan
+Dodge_ProMaster Rapid_2020,790982,Automatic,Sedan
+Tesla_Model X_2017,342721,Automatic,SUV
+Honda_City_2011,756330,Automatic,Truck
+Dodge_Dart_2009,552505,Automatic,SUV
+Dodge_Ram 2500 V8_2017,102486,Automatic,SUV
+Nissan_Cabstar RD_2016,732645,Automatic,Coupe
+Audi_S5_2014,416843,Automatic,Sedan
+Volkswagen_Touareg_2008,900390,Automatic,SUV
+Nissan_March Cargo_2016,330625,Automatic,Coupe
+Toyota_Corolla_2011,665761,Automatic,SUV
+Seat_Ibiza_2018,516882,Automatic,Coupe
+Jeep_Compass_2018,384330,Automatic,Sedan
+Infiniti_Q70_2014,519518,Automatic,SUV
+Ford_Explorer_2011,340733,Automatic,Sedan
+Audi_S6_2016,810925,Automatic,Sedan
+Land Rover_Range Rover Evoque_2018,734655,Automatic,Sedan
+Audi_RS5_2013,449119,Automatic,Sedan
+Lincoln_MKS_2011,154016,Automatic,Sedan
+Honda_Ridgeline_2009,834681,Automatic,SUV
+Lincoln_Navigator_2009,757301,Automatic,Sedan
+Volkswagen_Touareg_2017,598395,Automatic,SUV
+Ford_Fusion_2017,286159,Automatic,Sedan
+Smart_Smart_2017,453968,Manual,Sedan
+Volkswagen_Van_2008,858712,Automatic,Sedan
+Audi_Q8 Quattro_2020,344126,Automatic,SUV
+Seat_Ibiza_2013,462993,Automatic,SUV
+Renault_Trafic_2014,525159,Automatic,Sedan
+Toyota_FJ Cruiser_2012,151299,Automatic,Sedan
+Giant_GF_2015,655938,Automatic,Sedan
+Ford_Edge_2019,473748,Automatic,Sedan
+Dodge_Avenger_2008,742065,Automatic,Sedan
+Ford_Transit_2019,493698,Manual,Sedan
+GMC_Acadia_2011,840794,Manual,Sedan
+Honda_Civic_2010,802277,Automatic,Truck
+Honda_Fit_2017,428245,Automatic,Sedan
+Honda_CR-V_2020,513415,Automatic,Coupe
+Audi_Q3_2018,124302,Automatic,Sedan
+Audi_A1 Sportback_2013,837799,Manual,Sedan
+Dodge_ProMaster Rapid_2019,811977,Manual,Coupe
+Audi_RS7_2016,941012,Manual,Sedan
+Chevrolet_Silverado 1500 V6 _2019,676157,Automatic,SUV
+Peugeot_3008_2011,128441,Automatic,Coupe
+Ford_Transit_2018,331617,Automatic,Truck
+Audi_A8 Quattro_2015,667527,Automatic,Sedan
+BMW_X3_2019,185170,Automatic,Sedan
+GMC_Sierra_2012,193250,Automatic,Sedan
+Chrysler_300 C_2009,900511,Manual,Sedan
+Hino_Serie 300 614_2010,738056,Manual,Sedan
+Suzuki_Swift_2012,992167,Manual,Coupe
+Peugeot_207_2010,220670,Automatic,Sedan
+Volkswagen_Amarok_2013,960888,Manual,Sedan
+Dodge_Charger_2008,788368,Automatic,Sedan
+Audi_S5_2019,257455,Manual,Sedan
+Renault_Kangoo_2015,265664,Automatic,Sedan
+Jeep_Grand Cherokee_2021,590200,Automatic,Sedan
+Chevrolet_Suburban_2012,541807,Automatic,Sedan
+Chevrolet_Volt_2017,818115,Automatic,Sedan
+Cadillac_CTS_2009,266089,Automatic,Sedan
+Mercedes Benz_Sprinter Crew Cab L4_2012,312385,Manual,Sedan
+Volkswagen_Transporter_2015,894728,Automatic,Sedan
+Jaguar_XF_2016,911348,Automatic,SUV
+BMW_X6_2019,629417,Automatic,Truck
+Dodge_Dakota_2010,168402,Automatic,Sedan
+Land Rover_Range Rover Sport_2013,858911,Automatic,Sedan
+Nissan_X Trail_2008,547591,Automatic,Coupe
+Land Rover_Discovery Sport_2016,494989,Automatic,SUV
+Suzuki_Swift_2020,384778,Manual,Truck
+Porsche_911_2014,160336,Automatic,Sedan
+Fiat_Bravo_2009,536747,Automatic,Sedan
+Seat_Toledo_2016,572148,Automatic,Sedan
+Dodge_ProMaster_2017,145214,Automatic,SUV
+Nissan_Frontier_2011,277588,Automatic,Sedan
+Nissan_Pathfinder_2008,373396,Automatic,SUV
+Volkswagen_GTI Golf A6_2011,357987,Automatic,Truck
+Suzuki_Grand Vitara_2010,212871,Manual,Sedan
+Volkswagen_Gol_2019,376617,Manual,SUV
+Volkswagen_Gol_2020,483239,Automatic,SUV
+Lincoln_MKS_2013,251142,Automatic,Sedan
+Audi_Q3 Quattro_2013,863017,Manual,Coupe
+Dodge_Dart_2008,680813,Automatic,Sedan
+Volvo_S80_2014,142081,Automatic,SUV
+Dodge_Attitude_2020,595758,Automatic,SUV
+Hyundai_Sonata_2017,969338,Manual,Sedan
+Chevrolet_Optra_2009,986078,Manual,Sedan
+Mitsubishi_Eclipse Cross_2020,567522,Automatic,Truck
+Mercedes Benz_Clase CL_2009,225876,Automatic,Sedan
+Dodge_Ram 4000 L6 TD_2013,886779,Automatic,Sedan
+Mercedes Benz_GT AMG_2020,787154,Manual,SUV
+Land Rover_Range Rover Sport_2015,360640,Automatic,Coupe
+Lincoln_MKX_2008,568740,Automatic,Coupe
+Jaguar_XJ_2010,944759,Automatic,Coupe
+Porsche_Macan_2016,561341,Automatic,SUV
+Peugeot_3008_2012,487927,Manual,Sedan
+BMW_X4_2016,648145,Automatic,SUV
+Chevrolet_Corvette_2008,604663,Automatic,Sedan
+Buick_Lacrosse_2010,540940,Automatic,SUV
+Volkswagen_Touareg_2016,793384,Manual,Sedan
+Isuzu_ELF 400_2018,122737,Automatic,Sedan
+Renault_Fluence_2013,283143,Manual,Sedan
+Jeep_Renegade_2017,196372,Automatic,SUV
+Toyota_4Runner_2008,836430,Automatic,Sedan
+Renault_Stepway_2019,260038,Automatic,Sedan
+Audi_S8_2009,253819,Automatic,Sedan
+Jeep_Cherokee_2014,240021,Automatic,Sedan
+Toyota_Tacoma_2021,184311,Automatic,Sedan
+Volvo_S40_2011,357527,Automatic,Sedan
+BMW_Serie 1_2014,149165,Automatic,SUV
+Nissan_Murano_2013,469923,Automatic,SUV
+Cadillac_ATS_2013,166431,Automatic,Sedan
+Isuzu_ELF 200_2021,462193,Automatic,Sedan
+KIA_Optima_2017,986711,Automatic,Sedan
+Honda_Civic_2013,840320,Automatic,Sedan
+Seat_Altea XL_2011,751073,Automatic,Sedan
+Honda_Odyssey_2015,934930,Automatic,SUV
+Chevrolet_Malibu_2008,582601,Automatic,SUV
+Mercedes Benz_Clase M_2012,509682,Manual,SUV
+Dodge_Ram 700_2015,778699,Manual,Sedan
+Ford_Econoline Van_2012,572657,Automatic,Sedan
+Ford_F250 V8_2012,752028,Automatic,Truck
+Mazda_Mazda 2_2021,421320,Automatic,Sedan
+GMC_Terrain_2018,931495,Automatic,Sedan
+Toyota_Tundra_2008,801849,Automatic,Coupe
+Nissan_Murano_2014,165757,Automatic,Coupe
+Peugeot_208_2014,417055,Automatic,Sedan
+Volvo_C30_2008,640741,Automatic,SUV
+Nissan_NP 300_2020,161779,Automatic,Coupe
+Nissan_March Cargo_2017,414319,Automatic,SUV
+BMW_X4_2015,405059,Automatic,SUV
+Honda_Civic_2017,711270,Automatic,Sedan
+Land Rover_Range Rover Sport_2018,521664,Automatic,SUV
+Ford_Escape_2010,142589,Automatic,Sedan
+BMW_Serie 1_2010,206482,Automatic,Sedan
+Lincoln _Mark LT_2011,680249,Automatic,Sedan
+Jaguar_XF_2013,561149,Automatic,SUV
+Cadillac_CTS_2010,368323,Automatic,Coupe
+Volkswagen_Vento_2014,766309,Automatic,Sedan
+Jaguar_XKR_2009,125974,Automatic,SUV
+Volkswagen_Polo_2013,860174,Automatic,Sedan
+Chrysler_Aspen_2008,792832,Automatic,Truck
+Lincoln_MKZ_2012,895417,Automatic,Sedan
+Dodge_Ram 4000 V8_2012,172744,Automatic,Coupe
+Suzuki_Swift_2008,792437,Automatic,Truck
+Mercedes Benz_Clase GLC_2021,526385,Automatic,Sedan
+Infiniti_QX70_2017,247818,Manual,Sedan
+Hyundai_Tucson_2019,754955,Manual,Sedan
+BMW_Serie 7_2020,715307,Automatic,SUV
+Toyota_Sienna_2019,839365,Automatic,Sedan
+Suzuki_Vitara_2018,237367,Automatic,Truck
+Infiniti_M56_2013,382706,Automatic,Sedan
+Mercedes Benz_Clase S_2017,804197,Automatic,Sedan
+Audi_S5_2010,652309,Automatic,Coupe
+Land Rover_Range Rover Evoque_2021,642138,Automatic,Sedan
+KIA_Rio_2020,921771,Automatic,Sedan
+Buick_Enclave_2017,366550,Manual,SUV
+Chevrolet_Trax_2016,697131,Manual,Coupe
+Dodge_Van 1000_2009,512690,Automatic,Sedan
+Honda_Civic_2008,206636,Manual,Sedan
+Buick_Enclave_2020,696822,Automatic,Sedan
+Honda_CR-V_2019,976285,Manual,SUV
+Renault_Trafic_2013,565727,Automatic,Truck
+Chevrolet_Tracker_2021,610316,Automatic,Sedan
+Renault_Duster_2013,591017,Automatic,SUV
+Audi_A1_2015,767695,Automatic,Sedan
+Volkswagen_Jetta A7_2021,303768,Automatic,Sedan
+Toyota_Avanza_2012,643865,Automatic,Truck
+Mitsubishi_Outlander_2009,992179,Automatic,Sedan
+Toyota_Avanza_2008,423634,Manual,Coupe
+Honda_Odyssey_2019,374408,Automatic,Coupe
+Nissan_Versa_2019,872417,Automatic,Sedan
+Audi_R8 Quattro_2009,492927,Manual,Coupe
+BMW_Serie 4_2017,485495,Manual,Sedan
+Ford_Transit_2020,441440,Automatic,Sedan
+Suzuki_Ignis_2019,406235,Manual,Sedan
+Volkswagen_Transporter_2014,428016,Automatic,Sedan
+BMW_Serie Z_2011,259154,Automatic,Sedan
+Toyota_Camry_2014,413248,Automatic,Sedan
+KIA_Sorento_2020,397600,Automatic,SUV
+Mitsubishi_ASX_2015,531318,Manual,Coupe
+Nissan_March_2017,107583,Automatic,SUV
+GMC_Yukon_2020,615279,Manual,Sedan
+Mazda_CX-5_2021,760717,Manual,Sedan
+Renault_Safrane_2014,528657,Manual,Coupe
+GMC_Terrain_2017,307126,Automatic,SUV
+Mazda_Mazda 2_2012,376594,Automatic,SUV
+Chevrolet_Cruze_2015,549963,Automatic,SUV
+Nissan_Juke_2017,813401,Automatic,Coupe
+Toyota_Hiace_2021,845949,Manual,Sedan
+Ford_Expedition_2017,813397,Automatic,Sedan
+Giant_GF_2019,778560,Automatic,Sedan
+Chevrolet_Corvette_2009,794552,Automatic,Coupe
+Mazda_CX-7_2011,712124,Automatic,Sedan
+Honda_Pilot_2013,952622,Manual,SUV
+Toyota_Hiace_2014,252925,Automatic,SUV
+Spartak_Minivan Cargo_2012,906298,Automatic,Sedan
+Nissan_March_2015,883703,Automatic,Coupe
+Pontiac_Montana SV6_2008,417426,Automatic,SUV
+Mercedes Benz_GT AMG_2015,559538,Manual,Sedan
+Porsche_911_2020,898369,Automatic,Sedan
+Renault_Scenic_2009,548493,Automatic,Sedan
+Jac_SEI3_2018,580393,Automatic,Sedan
+Peugeot_207_2014,940420,Automatic,SUV
+Dodge_Vision_2015,782405,Automatic,Coupe
+Dodge_ProMaster Rapid_2017,689257,Automatic,SUV
+Volvo_S60_2020,795308,Automatic,Sedan
+Mazda_MX-5_2020,261328,Automatic,Truck
+Nissan_Platina_2008,845519,Automatic,Sedan
+Jeep_Patriot_2011,293250,Manual,Sedan
+Renault_Koleos_2012,344417,Manual,Sedan
+Porsche_Cayman_2015,297267,Automatic,SUV
+Toyota_Highlander_2020,142986,Automatic,Sedan
+KIA_Rio_2019,726785,Manual,Coupe
+Chevrolet_Express Cargo Van_2019,297136,Automatic,SUV
+Jaguar_F-PACE_2018,553735,Automatic,Sedan
+Mercedes Benz_Clase E_2010,755728,Automatic,SUV
+Chevrolet_Uplander_2008,337776,Automatic,Coupe
+Chevrolet_Camaro_2020,206615,Manual,SUV
+Honda_City_2019,517082,Automatic,Sedan
+Lincoln_Corsair_2020,216347,Automatic,Sedan
+Dodge_ProMaster_2020,917268,Automatic,Sedan
+Audi_A5 Sportback_2015,866866,Automatic,Sedan
+Toyota_Avanza Cargo_2018,903533,Manual,SUV
+Volkswagen_Passat_2017,904169,Automatic,SUV
+Ford_Figo_2016,368051,Manual,Sedan
+Ford_Transit_2013,595061,Automatic,Sedan
+Ford_Courier_2011,466452,Automatic,Coupe
+BMW_Serie 1_2015,471235,Automatic,SUV
+BMW_Serie 1_2016,433995,Manual,Sedan
+Chevrolet_Traverse_2013,366272,Automatic,SUV
+Jeep_Patriot_2017,492385,Automatic,Sedan
+Acura_MDX_2013,486286,Automatic,Sedan
+Chevrolet_Cruze_2012,517254,Manual,Sedan
+Honda_Accord_2009,720281,Automatic,Coupe
+Jeep_Liberty_2012,997104,Automatic,Coupe
+Seat_Córdoba_2008,516989,Automatic,Sedan
+Chevrolet_Express Van_2008,139965,Automatic,Truck
+Jeep_Cherokee_2018,687843,Manual,SUV
+Volkswagen_Crafter_2012,216121,Automatic,SUV
+Toyota_Supra_2020,194799,Manual,Sedan
+Volkswagen_Teramont_2019,661220,Automatic,Sedan
+Lincoln_Mark LT_2010,117277,Automatic,Sedan
+KIA_Rio_2016,583481,Manual,Coupe
+Dodge_Ram 1500 V6_2010,622935,Manual,Sedan
+Buick_Encore_2020,376679,Automatic,Sedan
+Buick_Envision_2016,636625,Automatic,Sedan
+Dodge_Atos_2012,786275,Manual,Sedan
+Nissan_Pathfinder_2011,804887,Automatic,Sedan
+Ford_Ranger_2019,305903,Automatic,Coupe
+Lincoln_Navigator_2011,521017,Automatic,Truck
+Ford_Expedition_2008,701093,Automatic,Coupe
+Infiniti_JX35_2013,296193,Automatic,SUV
+BMW_Serie Z_2014,864330,Manual,Sedan
+Nissan_Tsuru_2016,133291,Manual,SUV
+Volvo_S40_2012,307812,Automatic,Truck
+Nissan_March Cargo_2020,284831,Automatic,SUV
+Seat_Leon_2012,326206,Automatic,SUV
+Baic_M50_2020,282322,Automatic,Coupe
+Volkswagen_Crafter_2017,866077,Manual,Sedan
+Mazda_MX-5_2016,823493,Automatic,Sedan
+Honda_Ridgeline_2013,997067,Manual,SUV
+Audi_S5_2012,200152,Automatic,Sedan
+Mercedes Benz_Sprinter Chasis Cabina L4_2020,870569,Automatic,Sedan
+Jaguar_XF_2011,579430,Automatic,SUV
+Mercedes Benz_Clase GL_2016,775975,Automatic,Sedan
+Peugeot_Rifter_2020,990878,Automatic,SUV
+Dodge_Ram 1500 V6_2014,605188,Automatic,SUV
+Mercedes Benz_Clase G_2017,168318,Automatic,Sedan
+Chrysler_Cirrus_2008,834368,Manual,Coupe
+Volkswagen_Eurovan_2009,393094,Automatic,SUV
+Acura_TLX_2017,914912,Automatic,SUV
+Volkswagen_Saveiro_2016,154497,Automatic,SUV
+Mercedes Benz_Vito pasajeros_2009,374085,Automatic,Coupe
+Chevrolet_Corvette_2020,554004,Automatic,Sedan
+Mazda_Mazda 5_2008,543826,Automatic,Sedan
+Seat_Freetrack_2010,559715,Automatic,Sedan
+Hyundai_Accent_2021,855371,Automatic,Sedan
+Volvo_C30_2009,375217,Automatic,Sedan
+Honda_Pilot_2012,895941,Automatic,SUV
+Seat_Ibiza_2009,833016,Automatic,Sedan
+Audi_RS5_2015,612625,Automatic,Sedan
+KIA_Sportage_2016,385272,Automatic,Sedan
+Mercedes Benz_Clase SLK_2012,624720,Automatic,SUV
+Peugeot_Grand Raid_2012,141395,Manual,SUV
+Lincoln_Nautilus_2020,142874,Automatic,Coupe
+Subaru_BRZ_2017,796662,Automatic,Sedan
+Audi_S6_2013,676377,Manual,Sedan
+Mercedes Benz_Sprinter Cargo Van L4_2011,187064,Manual,Sedan
+Peugeot_208_2020,530593,Automatic,Sedan
+Volkswagen_Saveiro_2012,523440,Automatic,Sedan
+Chevrolet_Camaro_2018,346206,Automatic,Truck
+Jac_SEI7_2019,883488,Automatic,SUV
+Volkswagen_Saveiro_2013,382843,Automatic,Sedan
+Ford_Focus_2008,841107,Automatic,Sedan
+Mercedes Benz_Clase S_2010,653859,Automatic,Sedan
+Peugeot_Manager_2014,838199,Automatic,Sedan
+Nissan_Leaf_2015,896945,Manual,Coupe
+Volvo_C70_2009,630376,Automatic,Coupe
+Chevrolet_Chevy_2012,522409,Manual,SUV
+Renault_Sandero_2018,617798,Automatic,Sedan
+Alfa Romeo_Alfa Romeo_2014,292246,Automatic,Sedan
+Audi_Q5 Quattro_2011,428540,Automatic,SUV
+Volkswagen_Passat_2011,651562,Automatic,SUV
+Mercedes Benz_Vito pasajeros_2012,919371,Manual,Sedan
+Jeep_Grand Cherokee_2020,907930,Automatic,Sedan
+Mazda_CX-5_2016,133420,Automatic,Sedan
+Nissan_GT-R_2017,934311,Manual,Sedan
+Land Rover_Range Rover_2018,225292,Automatic,Sedan
+Nissan_Sentra_2010,216282,Manual,SUV
+Dodge_Journey_2014,811528,Automatic,SUV
+Chevrolet_Spark_2018,739724,Automatic,Sedan
+Mercedes Benz_Clase S_2014,897904,Automatic,Coupe
+Land Rover_LR2_2008,343723,Automatic,Sedan
+Nissan_Versa_2018,951729,Automatic,Sedan
+Cadillac_SRX_2011,124431,Automatic,Sedan
+Hino_Serie 300 616_2016,879018,Automatic,Coupe
+Hummer_Hummer_2008,362993,Automatic,SUV
+Land Rover_Range Rover Velar_2018,297598,Manual,Sedan
+Toyota_Hilux_2012,419256,Automatic,Sedan
+GMC_Acadia_2019,426032,Manual,SUV
+Chevrolet_Blazer_2020,444255,Manual,SUV
+Land Rover_LR2_2015,699153,Automatic,Sedan
+Audi_A7_2017,852392,Automatic,Sedan
+Jeep_Cherokee_2017,177519,Manual,Coupe
+Volkswagen_Jetta A6_2014,597314,Automatic,Coupe
+Lincoln_MKC_2016,750479,Automatic,SUV
+Audi_R8 Quattro_2018,312157,Automatic,Sedan
+Mazda_CX-3_2018,201832,Automatic,Sedan
+Renault_Kangoo_2018,288757,Automatic,Sedan
+Mercedes Benz_Clase GL_2017,929742,Automatic,Sedan
+Ford_Mustang_2015,394597,Automatic,SUV
+BMW_X2_2019,353482,Automatic,Sedan
+Mercedes Benz_Sprinter Crew Cab L4_2011,162223,Automatic,Sedan
+Peugeot_2008_2015,227776,Automatic,Sedan
+Dodge_Charger_2012,281675,Automatic,Truck
+Toyota_Hilux_2009,637062,Automatic,SUV
+Land Rover_Range Rover Sport_2012,629727,Automatic,Sedan
+Peugeot_5008_2020,435855,Automatic,Sedan
+Chevrolet_Matiz_2013,171546,Automatic,Sedan
+Mercedes Benz_Clase M_2013,163372,Manual,Sedan
+Volvo_XC60_2010,324860,Manual,SUV
+Mercedes Benz_Clase G_2011,670225,Automatic,Coupe
+Volvo_V40_2017,306647,Automatic,Sedan
+Volkswagen_Up_2017,355406,Automatic,Sedan
+Chevrolet_Silverado 1500 V6_2016,381919,Automatic,Sedan
+Nissan_Tiida_2010,675368,Automatic,Sedan
+Porsche_Cayman_2010,386826,Manual,Sedan
+Nissan_Tsuru_2015,809958,Automatic,Sedan
+Ford_Fiesta_2012,149481,Automatic,Sedan
+Cadillac_SRX_2014,760180,Automatic,SUV
+Volkswagen_Eurovan_2008,861196,Automatic,Sedan
+Mercedes Benz_Sprinter Chasis Cabina L4_2014,730215,Automatic,Sedan
+Renault_Saab_2008,332947,Automatic,Sedan
+GMC_Yukon_2019,283129,Automatic,Sedan
+Toyota_Sienna_2016,970192,Automatic,Sedan
+Honda_Accord_2010,673273,Automatic,Sedan
+Volkswagen_Crossfox_2013,298586,Automatic,Sedan
+Audi_A3 Sportback_2012,440901,Automatic,Coupe
+Mercedes Benz_Clase E_2018,717393,Automatic,Sedan
+Peugeot_308_2012,570896,Automatic,SUV
+Alfa Romeo_Alfa Romeo_2019,916988,Automatic,Sedan
+Acura_TL_2008,783432,Automatic,Coupe
+Volkswagen_Saveiro_2020,954239,Automatic,Sedan
+Audi_Q8 Quattro_2019,257077,Automatic,SUV
+Volkswagen_Beetle_2019,597922,Automatic,Sedan
+Ford_F250 V8_2018,874905,Automatic,SUV
+Audi_S4_2015,801873,Automatic,Truck
+BMW_Serie 7_2008,835219,Automatic,Sedan
+Audi_S8 Quattro_2017,836163,Manual,SUV
+Volkswagen_Van_2009,490878,Automatic,Coupe
+Audi_S3_2014,613650,Automatic,Sedan
+Ford_F150_2013,524129,Automatic,Sedan
+Toyota_Camry_2018,759271,Automatic,Coupe
+Jeep_Cherokee_2020,108056,Automatic,Sedan
+Cadillac_SRX_2016,914275,Automatic,Sedan
+Suzuki_Grand Vitara_2014,419711,Automatic,Sedan
+Volkswagen_Amarok_2017,163197,Automatic,Sedan
+Toyota_Avanza_2017,169675,Manual,Sedan
+Peugeot_307_2009,139841,Automatic,Sedan
+Nissan_Sentra_2011,680640,Automatic,Sedan
+Mercedes Benz_Clase CLK_2009,560434,Automatic,Sedan
+Honda_CR-V_2013,177024,Automatic,SUV
+Audi_A3_2014,633348,Automatic,Sedan
+Toyota_Corolla_2013,835984,Automatic,Coupe
+BMW_X5_2009,401700,Automatic,Sedan
+Porsche_Cayenne_2014,547609,Automatic,Sedan

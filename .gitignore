@@ -1,0 +1,15 @@
+*pyc
+.env
+.env-*
+.idea/*
+venv
+.venv
+.coverage
+.vscode/
+.env.local
+.env.dev
+### macOS template
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
