@@ -1,7 +1,7 @@
 jupyterlab
 mlflow
 kaleido
-#tf
+tf
 #pandas
 #numpy
 #scikit-survival
