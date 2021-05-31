@@ -1,22 +1,46 @@
-# th-fs-data-services-api
+# INVENTORY DAYS _ CHALLENGUE WAS TAKEN BY MFRANCYS
 
-TH FS data services API
+Version: 1.0
 
-# Table of contents
-- Add new bank parameters
+Summary: Development of algorithm models of machine learning with survival analysis
+and deep learning to estimate the days in inventory of a car before its sale.
+
+Keywords: Machine Learning, Survival Analysis, Deep Learning, Feature Engineering
 
 # Prerequisites
-- Python 3.8
-- Make (used as a task runner)
+- Python 3.9
+- Docker
 
-# Development setup
-To init the development environment, you should just run
-
-```shell
-make init
+# Installation
+- Way One: Create a virtual environment variable and, then, run requirements.txt with following steps:
+```bash
+1) python -m venv myvenv
+2) myvenv\Scripts\activate
+3) pip install -r requirements.txt
+```
+Finally, to analyze my notebook run the next line:
+```bash
+inventory_days_by_MFrancys.ipynb
 ```
 
-This will:
-- Initialize a git repository
-- Create python virtual environment on `.venv` with default dev dependencies installed
-- Install pre-commit hooks
+- Way Two: Run a docker instance
+
+# Project Organization
+```bash
+├── README.md          - The top-level README for developers using this project.
+
+├── requirements.txt   - The requirements file for reproducing the analysis environment, e.g.
+
+├── data               - Data files to complete the challenge
+  
+├── src                - Source code for use in this project.
+          
+└── inventory_days_by_MFrancys.ipynb   - Notebook to visualize the results of my challengue
+```
+
+
+
+
+##### Author: Maria Francys Lanza Garcia
+#### Nickname: MFrancys
+#### Author-email: mariafrancysucv@gmail.com

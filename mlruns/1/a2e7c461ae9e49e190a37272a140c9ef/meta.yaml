@@ -1,5 +1,5 @@
 artifact_uri: file:///Users/marialanza/Documents/ProjectsML_MF/mfrancys/mlruns/1/a2e7c461ae9e49e190a37272a140c9ef/artifacts
-end_time: null
+end_time: 1622408283234
 entry_point_name: ''
 experiment_id: '1'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1622398992278
-status: 1
+status: 3
 tags: []
 user_id: marialanza

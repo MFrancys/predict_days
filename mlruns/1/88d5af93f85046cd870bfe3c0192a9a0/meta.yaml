@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marialanza/Documents/ProjectsML_MF/mfrancys/mlruns/1/88d5af93f85046cd870bfe3c0192a9a0/artifacts
+end_time: 1622408422854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 88d5af93f85046cd870bfe3c0192a9a0
+run_uuid: 88d5af93f85046cd870bfe3c0192a9a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622408356179
+status: 3
+tags: []
+user_id: marialanza
