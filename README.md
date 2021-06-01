@@ -8,8 +8,8 @@ and deep learning to estimate the days in inventory of a car before its sale.
 Keywords: Machine Learning, Survival Analysis, Deep Learning, Feature Engineering
 
 # Prerequisites
-- Python 3.9
-- Docker
+Python >=3.7
+Nodejs >=12.0
 
 # Installation
 - Way One: Create a virtual environment variable and, then, run requirements.txt with following steps:
@@ -17,14 +17,15 @@ Keywords: Machine Learning, Survival Analysis, Deep Learning, Feature Engineerin
 1) python -m venv myvenv
 2) myvenv\Scripts\activate
 3) pip install -r requirements.txt
+4) jupyter-lab
 ```
-Finally, to analyze my notebook run the next line:
-```bash
-inventory_days_by_MFrancys.ipynb
-```
-
 - Way Two: Run a docker instance
-
+```bash   
+ 
+1) docker build -t predict-days:1.0 .
+2) docker run -p 8888:8888 predict:2.3
+```   
+#### Note: The docker image can be lifted but I did not have time to correct the error that the tunnel to the container cannot be loaded from local
 # Project Organization
 ```bash
 ├── README.md          - The top-level README for developers using this project.

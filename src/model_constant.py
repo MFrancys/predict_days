@@ -1,6 +1,32 @@
 import numpy as np
 
-regressor_config_dict = {
+CATEGORICAL_FEATURES = ['car_type', 'color', 'transmission', 'body_type', 'card_brand']
+
+NUMERICAL_FEATURES = ['km', 'average_price', 'antiquity', 'diff_price', 'diff_price_perc', 'DI']
+
+SCALING_FEATURES = [
+    'average_price',
+    'diff_price',
+    'diff_price_perc'
+]
+
+BUCKETIZED_FEATURES = [
+    'antiquity',
+    'km'
+]
+
+CATEGORICAL_COLUMNS = [
+    'transmission',
+    'color',
+    'body_type'
+]
+
+EMBEDDING_COLUMNS = [
+    'car_brand',
+    'car_type'
+]
+
+REGRESSOR_CONFIG_DICT = {
 
     'sklearn.linear_model.ElasticNetCV': {
         'l1_ratio': np.arange(0.0, 1.01, 0.05),

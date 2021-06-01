@@ -1,4 +1,8 @@
 import pandas as pd
+import datetime
+from sksurv.nonparametric import kaplan_meier_estimator
+import plotly.graph_objects as go
+import tensorflow as tf
 
 def get_extract_features(df):
     df = df.rename(columns={'first_price': 'price'})
@@ -41,7 +45,7 @@ def kaplan_meier_estimator_by_statification_plot(df, action, time, statification
     fig = go.Figure()
 
     for value in feature_values:
-        mask = df[feature] == value
+        mask = df[statification] == value
         time_sold, survival_prob_sold = kaplan_meier_estimator(df[action][mask], df[time][mask])
         fig.add_trace(go.Scatter(x=time_sold, y=survival_prob_sold, mode='lines', name=value))
 
@@ -96,7 +100,17 @@ def df_to_dataset(dataframe, target, shuffle=True, batch_size=32):
     return ds
 
 
-def get_autoencoder_features(example_batch):
+def df_to_dataset_enc(dataframe, feature_prepocessing, shuffle=True, batch_size=32):
+    dataframe = dataframe[feature_prepocessing].copy()
+    labels = dataframe
+    ds = tf.data.Dataset.from_tensor_slices((dict(dataframe), labels))
+    if shuffle:
+        ds = ds.shuffle(buffer_size=len(dataframe))
+        ds = ds.batch(batch_size)
+
+    return ds
+
+def get_autoencoder_features(model, example_batch):
     ds_autoencoder = pd.DataFrame(
         data=model.predict(example_batch),
         index=[-1 if b'NAN' == i else int(i) for i in tf.get_static_value(example_batch['car_id']).tolist()])
