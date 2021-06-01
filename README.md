@@ -2,6 +2,8 @@
 
 Version: 1.0
 
+Hosted: This project is hosted in https://github.com/MFrancys/predict_days
+
 Summary: Development of algorithm models of machine learning with survival analysis
 and deep learning to estimate the days in inventory of a car before its sale.
 
