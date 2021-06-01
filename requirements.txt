@@ -1,16 +1,13 @@
-jupyterlab
-#tfx  pip install tfx --no-deps
-#tf  pip install tf --no-deps
-pandas
-numpy
-scikit-survival
-matplotlib
-tensorflow-transform
-eli5
-pandas-profiling
-ipywidgets
-plotly
-#jupyter labextension install jupyterlab-plotly
-
-pip uninstall tensorflow_estimator
- pip install tensorflow_estimatorgit
+jupyterlab==3.0.16
+mlflow==1.17
+kaleido==0.2.1
+tf==1.0.0
+pandas== 1.2.4
+numpy==1.20.3
+scikit-survival==0.15.0.post0
+matplotlib==3.4.2
+eli5==0.11.0
+pandas-profiling==3.0.0
+ipywidgets==7.6.3
+plotly==4.14.3
+tpot==0.11.7
